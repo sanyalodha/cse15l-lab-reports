@@ -23,5 +23,25 @@
 3. After running "cd en-us.txt", it resulted in an error output because the file is not a directory.
 4. There is an error because cd changes directories and en-us.txt is a file and not a directory.
 
-## command 
+## Command: ls
+# 1. *ls with no arguments*
+![Screenshot](ls_1.png)
+
+2. Working directory was the home directory
+3. I got the output lecture1 because ls shows all files in the current directory which would be only lecture1 in the home directory.
+4. No errors.
+
+# 2. *ls with a path to a directory as an argument*
+![Screenshot](ls_2.png)
+2. Working directory was the home directory
+3. By adding a path to a directory as an argument, ls accessed the lecture1 directory and found the 4 files: Hello.class, Hello.java, messages and README which it displayed as an output.
+4. We got no errors
+
+# 3. *ls with a path to a file as an argument*
+![Screenshot](ls_3.png)
+2. Working directory was the home directory
+3. By adding a path to the file, we get the same argument of the path back because ls found no further files inside gd.txt
+4. We got no errors
+
+
 
