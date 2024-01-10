@@ -43,5 +43,9 @@
 3. By adding a path to the file, we get the same argument of the path back because ls found no further files inside gd.txt
 4. We got no errors
 
+## Command: cat
+# 1. *cat with no arguments*
+
+
 
 
