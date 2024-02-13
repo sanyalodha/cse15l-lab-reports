@@ -1146,11 +1146,11 @@ files in the technical directory. Then, the ```regex``` command finds all the fi
 the argument ```" %s bytes  %f\n"``` so that it prints out the size of the filtered files, the word "bytes", followed by the name of file.
 
 ## Links to Sources
-- (https://stackoverflow.com/questions/6844785/how-to-use-regex-with-find-command)
-- (https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line/)
-- (https://snapshooter.com/learn/linux/find)
-- (https://www.baeldung.com/java-printstream-printf)
-- (https://www.w3schools.com/java/java_regex.asp)
+- [https://stackoverflow.com/questions/6844785/how-to-use-regex-with-find-command](https://stackoverflow.com/questions/6844785/how-to-use-regex-with-find-command)
+- [https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line/](https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line/)
+- [https://snapshooter.com/learn/linux/find](https://snapshooter.com/learn/linux/find)
+- [https://www.baeldung.com/java-printstream-printf](https://www.baeldung.com/java-printstream-printf)
+- [https://www.w3schools.com/java/java_regex.asp](https://www.w3schools.com/java/java_regex.asp)
 
 
 
